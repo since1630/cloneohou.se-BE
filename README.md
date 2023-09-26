@@ -9,7 +9,7 @@
   | 김형섭 | EC2 / 크롤링 |https://github.com/hyeong08|
   | 어민규 | API / 회원가입 / 로그인 / MULTER |https://github.com/fish-minkyu|
   | 김승훈 | API / MULTER |https://github.com/Obligedwalnut|
-  | 신성윤 | 검색 관련 기능 / 크롤링 |https://github.com/since1630|
+  | 신성윤 | API / 검색 / 크롤링 |https://github.com/since1630|
 
 ### 🎨 개발 환경
 <div align="center">
